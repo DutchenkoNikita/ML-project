@@ -1,0 +1,1 @@
+The main task of the project is to predict the successful completion of the online course by the user. Pre-processing of data, addition of new parameters, merging of tables is performed. Initialization of the classifier based on Random Forest, selection of parameters using GridSearchCV. The result is roc_auc_score on the test data set.
